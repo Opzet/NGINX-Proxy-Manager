@@ -10,15 +10,37 @@
 	</a>
 </p>
 
+## YARP 
+Microsoft inhouse reverse proxy https://microsoft.github.io/reverse-proxy/index.html
+
+### YARP Dashboard 
+https://github.com/Opzet/ReverseProxy.Store
+
+![1639733073(1)](https://user-images.githubusercontent.com/22066473/146521329-9c8d04b4-dc99-47a0-87bc-cc081e9b5cc4.jpg)
+![image](https://user-images.githubusercontent.com/22066473/146521423-48df866b-4299-4628-b6aa-c8d4fbfcbe43.png)
+---
+
+## NGINX Proxy Manager  Dashboard
+
+![image](https://develop.nginxproxymanager.com/screenshots/permissions.png)
+![image](https://develop.nginxproxymanager.com/screenshots/dashboard.png)
+![image](https://github.com/Opzet/NGINX-Proxy-Manager/assets/4495790/3bae1dca-810c-4a7c-b59d-f3134e1d838f)
 
 
-## 3 Ways to install NGINX on Windows
+
+
+## NGINX on Windows
 
 ### Introduction
 NGINX, pronounced as ‘Engine-X’, is a powerful web server known for its high performance, stability, simple configuration, and low resource consumption. Although it’s originally developed for Linux, it’s possible to run NGINX on Windows systems as well. There are multiple ways you can install NGINX on Windows, each with its approaches and use cases. This guide provides a comprehensive look at several solutions for installing NGINX on a Windows environment.
 
 
 ### Approach 1: Official NGINX Windows Binary
+
+https://nginx.org/en/download.html
+
+https://virendra.dev/blog/setting-up-nginx-as-a-reverse-proxy-on-windows
+
 NGINX offers an official pre-built Windows binary that is suitable for development and testing purposes. The official NGINX binaries are provided by the NGINX team and are compiled for Windows.
 
 1.  Download the Windows version of NGINX from the official website, which can be found at nginx.org.
